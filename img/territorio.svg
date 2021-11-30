@@ -9,7 +9,7 @@
 	.st3{font-size:12px;}
 	.st4{fill:#E63812;}
 </style>
-<image style="overflow:visible;enable-background:new;" width="692" height="295" xlink:href="img/territorio.png"  transform="matrix(0.9971 0 0 0.9831 35 75)">
+<image style="overflow:visible;enable-background:new    ;" width="692" height="295" xlink:href="territorio.png"  transform="matrix(0.9971 0 0 0.9831 35 75)">
 </image>
 <line class="st0" x1="311.1" y1="227.5" x2="335.7" y2="227.4"/>
 <path class="st1" d="M311.1,231.3c-2.1,0-3.8-1.7-3.8-3.7c0-2.1,1.7-3.8,3.7-3.8c2.1,0,3.8,1.7,3.8,3.7
